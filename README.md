@@ -1,5 +1,2 @@
-# My title
-2-3 sentences describing what your demo does.
-Commit + Sync.
-Static Friction f_s \leq \mu_s N
-Kinetic Friction f_k = \mu_k N
+# Snake
+Try to eat all the apples! Numerous in-game challenges include: random death, offscreen apples, and disconnected bodyparts.
